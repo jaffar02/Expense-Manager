@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "151221953404",
+    "firebase_url": "https://expense-manager-445f3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "expense-manager-445f3",
+    "storage_bucket": "expense-manager-445f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151221953404:android:d1466d92e5a91de26e3af9",
+        "android_client_info": {
+          "package_name": "com.alphadev.expensemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxyQoYSri8kpppM25N-G70dBdim0w1POw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
